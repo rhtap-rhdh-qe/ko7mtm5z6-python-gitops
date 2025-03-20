@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ko7mtm5z6-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ko7mtm5z6-python-gitops
